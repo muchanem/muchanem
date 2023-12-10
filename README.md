@@ -2,7 +2,7 @@
 ## Quick Facts ⚡
 - 😄 I'm Mark (he/they). I'm a 2nd year Math/CS student at UChicago
 - 🌱 I've been doing this for a while, so my skills are broad (Linux/SysAdmin/Bash, Web/Vue/React, Go, Rust, Python, R, C)
-- 🔭 I’m currently working on tools for AI & Science at Argonne National Labs and statistical tools for social science at [GenForward](https://genforwardsurvey.com/)
+- 🔭 I’m currently working on statistical tools for social science at [GenForward](https://genforwardsurvey.com/)
 - 👯 I'm always looking for more opportunities in machine learning research
 - 📫 I'm available at muchane@uchicago.edu
 ## My Story 💬
